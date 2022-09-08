@@ -1,0 +1,32 @@
+h1{
+    color: tomato;
+}
+h3{
+    color: red; 
+    font-style: italic;
+
+}
+.a{
+    color: brown;
+
+}
+.yel{
+    background-color: yellow;
+}
+
+ul{
+    letter-spacing: 4px;
+}
+ p{
+    color:rgb(130, 130, 7);
+ }
+ #link{
+    background-color: yellow;
+    font-style: italic;
+    color: red;
+    
+
+ }
+ a:link{
+    text-decoration: none;
+ }
